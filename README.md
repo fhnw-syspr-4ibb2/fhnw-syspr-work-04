@@ -21,7 +21,7 @@ Auf Ihrem Computer
 * Zu Beginn jeder Lektion wird ein Hands-on Repository Link freigeschaltet
 * Nachdem Sie das "Assessment" annehmen, bekommen Sie per Email ein Repository
 * Die REPO_URL enthält Ihren GitHub Account USER_NAME und Ihre Klasse 3ia oder 3ib, z.B.<br/>
-            https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-03-tamberg
+            https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-04-tamberg
 
 Auf dem Raspberry Pi
 * Repository klonen<pre>
